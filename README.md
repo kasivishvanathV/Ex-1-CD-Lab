@@ -105,8 +105,6 @@ int main() {
 ![image](https://github.com/user-attachments/assets/f87986d3-a4b2-49f4-bf60-f4d26bab5604)
 
 
-# RESULT
- The program to implement a symbol table is executed and the output is verified.
-# OUTPUT
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
